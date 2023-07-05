@@ -2,7 +2,7 @@
 layout: blog
 title: "How to transform a large business with generative AI"
 subtitle: "How might Apple use generative AI to transform its business model?"
-cover_image: images/blog/polyaxon_logo.png
+cover_image: images/blog/chatgpt.png
 cover_image_caption: ""
 tags: [prompts, exploration]
 ---

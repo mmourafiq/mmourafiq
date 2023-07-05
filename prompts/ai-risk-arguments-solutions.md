@@ -2,7 +2,7 @@
 layout: blog
 title: "AI risk: argements and solutions"
 subtitle: "What are the AI risks and how to solve them?"
-cover_image: images/blog/polyaxon_logo.png
+cover_image: images/blog/chatgpt.png
 cover_image_caption: ""
 tags: [prompts, exploration]
 ---

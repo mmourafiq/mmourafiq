@@ -2,7 +2,7 @@
 layout: blog
 title: "Exploring convenient travel for senior citizens"
 subtitle: "How might we make travel more convenient for senior citizens?"
-cover_image: images/blog/polyaxon_logo.png
+cover_image: images/blog/chatgpt.png
 cover_image_caption: ""
 tags: [prompts, exploration]
 ---

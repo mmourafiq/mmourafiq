@@ -2,7 +2,7 @@
 layout: blog
 title: "Exploring social shopping"
 subtitle: "How might we make shopping more social?"
-cover_image: images/blog/polyaxon_logo.png
+cover_image: images/blog/chatgpt.png
 cover_image_caption: ""
 tags: [prompts, exploration]
 ---

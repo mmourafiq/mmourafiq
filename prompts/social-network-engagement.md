@@ -2,7 +2,7 @@
 layout: blog
 title: "Exploring social network engagement"
 subtitle: "How might the Twitter increase readership and engagement?"
-cover_image: images/blog/polyaxon_logo.png
+cover_image: images/blog/chatgpt.png
 cover_image_caption: ""
 tags: [prompts, exploration]
 ---

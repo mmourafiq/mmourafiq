@@ -2,7 +2,7 @@
 layout: blog
 title: "How to transform a wealth management with generative AI"
 subtitle: "How might we use generative AI to transform wealth management?"
-cover_image: images/blog/polyaxon_logo.png
+cover_image: images/blog/chatgpt.png
 cover_image_caption: ""
 tags: [prompts, exploration]
 ---

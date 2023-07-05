@@ -2,7 +2,7 @@
 layout: blog
 title: "Exploring entropy"
 subtitle: "Are there multiple interpretations of entropy?"
-cover_image: images/blog/polyaxon_logo.png
+cover_image: images/blog/chatgpt.png
 cover_image_caption: ""
 tags: [prompts, exploration]
 ---
