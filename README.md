@@ -8,10 +8,6 @@ Terminally online, not!
 - [Github](https://github.com/mmourafiq)
 - [Twitter](https://twitter.com/mmourafiq)
 
-### WIP
-
-I will start documenting content I read
-
 ### What I do
 
 - Ideation and products building with experience in consumer, SaaS, and B2B. I know how to turn business requirements and ideas into a clean & simple technology components.
