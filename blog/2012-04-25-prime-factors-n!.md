@@ -52,8 +52,11 @@ to the final power of $$p$$ that is part of the factorization of $$n!$$
 
 * **Theorem2**:
 
-For every positive integer $$n>1$$, let $$p$$ be such that $$1<p<=n$$ , let $$k>1$$ denote any
-positive integer where $$p^{k+1} <= 1$$ we have then,
+For every positive integer $$n>1$$ 
+let $$p$$ 
+be such that $$1 < p <= n$$
+let $$k > 1$$ denote any
+positive integer where $$p^{k+1} <= 1$$ we have then:
 
 $$IntPart(n/p^{k+1}) = IntPart(\frac{IntPart(n/p^k)}{p})$$
 
