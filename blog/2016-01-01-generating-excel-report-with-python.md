@@ -218,13 +218,13 @@ writer.save()
 
 The result output
 
-![excel_report](/images/posts/report.png)
+![excel_report](/images/blog/report.png)
 
 To go a bit further, let's imagine that we want to generate the report from a template. For this we will need the python module openpyxl, because it's the only python module that allows to modify an excel file.
 
 The first step is to create a template for our report.
 
-![excel_report](/images/posts/report-template.png)
+![excel_report](/images/blog/report-template.png)
 
 You can notice that we named an excel range `values` to be able to update the values in that range easily from the python side. Here's an utility function to update an excel sheet from python given a named range or cell range.
 
@@ -317,7 +317,7 @@ workbook.save('report1.xlsx')
 
 This will keep our template unmodified and generate a report with one excel sheet `count_by_year` containing the values from the pivot table.
 
-![excel_report](/images/posts/excel-report-count.png)
+![excel_report](/images/blog/excel-report-count.png)
 
 The last part of this part is to show a work around when we need to generate a report with multiple sheets based on the same template. Things get a bit complicated, because no python module allow to copy/clone a sheet and update it, I managed to find a way to do this by reloading the workbook each time we copy the template sheet, but I hope that this option will be supported by the openpyxl module in the future, for further reference there's a [ticket](https://bitbucket.org/openpyxl/openpyxl/issues/171/copy-worksheet-function) for this.
 
@@ -366,5 +366,5 @@ workbook.save('report2.xlsx')
 
 The output result
 
-![excel_report](/images/posts/excel-report-count-sum.png)
+![excel_report](/images/blog/excel-report-count-sum.png)
 

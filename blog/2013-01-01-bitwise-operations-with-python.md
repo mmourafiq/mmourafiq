@@ -137,5 +137,5 @@ It pads the codes that are shorter than 6 characters with leading 'a' characters
 ```
 
 For a full example, I created this django
-app : [django-short-urls](https://github.com/mouradmourafiq/django-short-urls).
+app : [django-short-urls](https://github.com/mmourafiq/django-short-urls).
 

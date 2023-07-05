@@ -14,7 +14,7 @@ the web.
 Your task will be to devise a classifier that is able to tell good answers from bad answers, as well
 as humans can. A good answer is denoted by a +1 in our system, and a bad answer is denoted by a -1.
 
-![quora-answer-classifier](/images/posts/quora-answer-classifier.png)
+![quora-answer-classifier](/images/blog/quora-answer-classifier.png)
 
 **Input format (read from STDIN)**:
 

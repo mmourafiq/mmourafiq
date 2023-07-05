@@ -23,12 +23,12 @@ First thing to do is to prepare the environment, I suppose that most of you use 
 
 Clone this repos :
 
-[https://github.com/mouradmourafiq/django-angular-blog](https://github.com/mouradmourafiq/django-angular-blog)
+[https://github.com/mmourafiq/django-angular-blog](https://github.com/mmourafiq/django-angular-blog)
 
 Checkout to part1 branch.
 
 ```bash
->  git clone https://github.com/mouradmourafiq/django-angular-blog
+>  git clone https://github.com/mmourafiq/django-angular-blog
 >  cd django-angular-blog
 >  git checkout part1
 ```

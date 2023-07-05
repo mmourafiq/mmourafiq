@@ -6,7 +6,7 @@ cover_image: images/blog/tensorflow.jpg
 cover_image_caption: ""
 tags: [deep-learning, python, tensorflow]
 ---
-In this post we will try to develop a practical intuition about convolutions and visualize different steps used in convolutional neural network architectures. The code used for this tutorial can be found [here](https://github.com/mouradmourafiq/tensorflow-convolution-models).
+In this post we will try to develop a practical intuition about convolutions and visualize different steps used in convolutional neural network architectures. The code used for this tutorial can be found [here](https://github.com/mmourafiq/tensorflow-convolution-models).
 
 This tutorial does not cover back propagation, sparse connectivity, shared weights and other theoritical aspects that are already covered in other courses and tutorials. Instead it focuses on giving a practical intuition on how to use tensorflow to build a convolutional model.
 
@@ -48,12 +48,12 @@ $$
 
 To visualize how convolution slides to calculate the output matrix, it's good to look at a vizualization:
 
-![Convolution with 3×3 Filter](/images/posts/convolution_schematic.gif)
+![Convolution with 3×3 Filter](/images/blog/convolution_schematic.gif)
 Source: http://deeplearning.stanford.edu/wiki/index.php/Feature_extraction_using_convolution
 
 In convolutional architectures it's also common to use pooling layer after each convolution, these pooling layers generally simplify the information of the convolution layer before, by choosing the most prominent value (max pooling) or averaging the values calculated in by the convolution (average pooling).
 
-![Pooling](/images/posts/pooling_schematic.gif)
+![Pooling](/images/blog/pooling_schematic.gif)
 Source: http://deeplearning.stanford.edu/wiki/index.php/File:Pooling_schematic.gif
 
  * Computing convolutions and pooling:
@@ -76,7 +76,7 @@ img = Image.open('gray_kitten.jpg')
 plt.imshow(img)
 ```
 
-![Gray kitten](/images/posts/gray_kitten.jpg)
+![Gray kitten](/images/blog/gray_kitten.jpg)
 
 And in order to visualize the result of each operation, we need to write some utils functions
 
@@ -173,7 +173,7 @@ avg_pool_op filters (shape (1, 15, 27, 1))
 max_pool_op filters (shape (1, 15, 27, 1))
 ```
 
-![sharpen_filter](/images/posts/sharpen_filter_gray.png)
+![sharpen_filter](/images/blog/sharpen_filter_gray.png)
 
  * blure filter
 
@@ -201,7 +201,7 @@ avg_pool_op filters (shape (1, 15, 27, 1))
 max_pool_op filters (shape (1, 15, 27, 1))
 ```
 
-![blure_filter](/images/posts/blure_filter_gray.png)
+![blure_filter](/images/blog/blure_filter_gray.png)
 
  * Convolutional model
 
@@ -299,13 +299,13 @@ def flatten_convolution(tensor_in):
 
 Finally after running our model, we can look at the loss and the model graph
 
-![LeNet model graph](/images/posts/lenet_model.png)
-![model loss](/images/posts/lenet_loss.png)
-![model loss mean](/images/posts/lenet_loss_mean.png)
+![LeNet model graph](/images/blog/lenet_model.png)
+![model loss](/images/blog/lenet_loss.png)
+![model loss mean](/images/blog/lenet_loss_mean.png)
 
 Here's also AlexNet's model graph
 
-![AlexNet model graph](/images/posts/alexnet_model.png)
+![AlexNet model graph](/images/blog/alexnet_model.png)
 
 
-The full code used in this tutorial can be found in this github [repo](https://github.com/mouradmourafiq/tensorflow-convolution-models)
+The full code used in this tutorial can be found in this github [repo](https://github.com/mmourafiq/tensorflow-convolution-models)

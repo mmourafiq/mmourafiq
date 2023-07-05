@@ -141,4 +141,4 @@ gamma(inf)
 
 Gamma function is considered as the "correct" substitute for the factorial in various integrals, which seems to come more or less from its integral definition.
 
-![euler-gamma-function](/images/posts/gamma.png)
+![euler-gamma-function](/images/blog/gamma.png)

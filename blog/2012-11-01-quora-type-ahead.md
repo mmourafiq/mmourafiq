@@ -9,7 +9,7 @@ tags: [ code, python, machine-learning ]
 
 This is an attempt to solve the quora typeahead challenge.
 
-![quora-typeahead-search](/images/posts/quora-type-ahead.png)
+![quora-typeahead-search](/images/blog/quora-type-ahead.png)
 
 The search bar at the top of every page on Quora allows you to search the most up-to-date people,
 topics and questions on our site.

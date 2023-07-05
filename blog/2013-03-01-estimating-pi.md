@@ -15,7 +15,7 @@ In this post, we are going to use the Monte Carlo method to estimate the value o
 
 First, consider a circle inscribed in a square (as in the figure).
 
-![circle-square](/images/posts/circle-square.gif)
+![circle-square](/images/blog/circle-square.gif)
 
 f assume that the radius of the circle is $$R$$, then the Area of the circle $$= Pi * R^2$$ and the
 Area of the squar $$= (2 * R)^2 = 4 * R^2$$.

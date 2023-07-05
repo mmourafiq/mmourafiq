@@ -6,7 +6,7 @@ cover_image: images/blog/tensorflow.jpg
 cover_image_caption: ""
 tags: [deep-learning, python, tensorflow]
 ---
-This post tries to demonstrates how to approximate a sequence of vectors using a recurrent neural networks, in particular I will be using the LSTM architecture, The complete code used for this post could be found [here](https://github.com/mouradmourafiq/tensorflow-lstm-regression). Most of the examples I found in the internet apply the LSTM architecture to natural language processing problems, and I couldn't find an example where this architecture could be used to predict continuous values.
+This post tries to demonstrates how to approximate a sequence of vectors using a recurrent neural networks, in particular I will be using the LSTM architecture, The complete code used for this post could be found [here](https://github.com/mmourafiq/tensorflow-lstm-regression). Most of the examples I found in the internet apply the LSTM architecture to natural language processing problems, and I couldn't find an example where this architecture could be used to predict continuous values.
 
 ----
 
@@ -75,15 +75,15 @@ In this example we will try to predict a couple of functions:
 
  * sin
 
-![sin-function](/images/posts/sin.png)
+![sin-function](/images/blog/sin.png)
 
  * sin and cos on the same time
 
-![sin-cos-function](/images/posts/sin-cos.png)
+![sin-cos-function](/images/blog/sin-cos.png)
 
  * x*sin(x)
 
-![x*sin-function](/images/posts/xsin.png)
+![x*sin-function](/images/blog/xsin.png)
 
 First of all let’s build our model, `lstm_model`, the model is a list of stacked lstm cells of different time steps followed by a dense layers.
 
@@ -249,7 +249,7 @@ print("Error: {}".format(mse))
 
  * real sin function
 
-![sin-function](/images/posts/predicted-sin.png)
+![sin-function](/images/blog/predicted-sin.png)
 
 ### Predicting the `sin and cos` functions together
 
@@ -283,7 +283,7 @@ print("Error: {}".format(mse))
 
  * predicted sin-cos function
 
-![sin-function](/images/posts/predicted-sin-cos.png)
+![sin-function](/images/blog/predicted-sin-cos.png)
 
 
 Predicting the `x*sin` function
@@ -318,17 +318,17 @@ print("Error: {}".format(mse))
 
  * real x*sin function
 
-![sin-function](/images/posts/xsin.png)
+![sin-function](/images/blog/xsin.png)
 
  * predicted x*sin function
 
-![sin-function](/images/posts/predicted-xsin.png)  
+![sin-function](/images/blog/predicted-xsin.png)  
 
 ### model loss
 
-![sin-loss](/images/posts/sin-loss.png)
+![sin-loss](/images/blog/sin-loss.png)
 
-![sin-loss-mean](/images/posts/sin-loss-mean.png)
+![sin-loss-mean](/images/blog/sin-loss-mean.png)
 
 
 **N.B** I am not completely sure if this is the right way to train lstm on regression problems, I am still experimenting with the [RNN sequence-to-sequence model](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/ops/seq2seq.py#L151), I will update this post or write a new one to use the sequence-to-sequence model.
