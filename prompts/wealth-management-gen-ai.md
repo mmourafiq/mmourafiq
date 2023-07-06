@@ -7,7 +7,7 @@ cover_image_caption: ""
 tags: [prompts, exploration]
 ---
 
-# Prompt
+## Prompt
 
 How might we use generative AI to transform wealth management?
 
@@ -33,7 +33,7 @@ It's important to remember that while generative AI can automate many tasks, it'
 
 ---
 
-# Prompt
+## Prompt
 
 How might we use generative AI to transform CRMs?
 
@@ -63,7 +63,7 @@ While AI can significantly improve efficiency, it is important to remember that 
 
 ---
 
-# Prompt
+## Prompt
 
 What about content reporpusing?
 

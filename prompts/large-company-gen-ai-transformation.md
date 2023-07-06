@@ -6,7 +6,7 @@ cover_image: images/blog/chatgpt.png
 cover_image_caption: ""
 tags: [prompts, exploration]
 ---
-# Prompt
+## Prompt
 
 How might Apple use generative AI to transform its business model?
 

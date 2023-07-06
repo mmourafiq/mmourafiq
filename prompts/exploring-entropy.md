@@ -7,7 +7,7 @@ cover_image_caption: ""
 tags: [prompts, exploration]
 ---
 
-# Prompt
+## Prompt
 
 Are there multiple interpretations of entropy?
 
@@ -25,7 +25,7 @@ The common thread among these different interpretations is the idea of quantifyi
 
 ---
 
-# Prompt
+## Prompt
 
 Can we say that the world is getting more organized from an entropy point of view?
 
@@ -35,7 +35,7 @@ Your question is intriguing. However, to assess its validity, it would be useful
 
 ---
 
-# Prompt
+## Prompt
 
 Answer the question with regards to all those themes
 
@@ -55,7 +55,7 @@ Does this explanation clarify your understanding of the relationship between ent
 
 ---
 
-# Prompt
+## Prompt
 
 What are the main people behind the notion o entropy in all fields
 
@@ -79,7 +79,7 @@ These are just a few examples, and many others have contributed to the developme
 
 ---
 
-# Prompt
+## Prompt
 
 Can you provide a thorough explanation of each one of these interpretations of entropy
 

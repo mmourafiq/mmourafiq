@@ -7,7 +7,7 @@ cover_image_caption: ""
 tags: [prompts, exploration]
 ---
 
-# Prompt
+## Prompt
 
 How might the Twitter increase readership and engagement?
 

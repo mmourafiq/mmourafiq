@@ -7,7 +7,7 @@ cover_image_caption: ""
 tags: [prompts, exploration]
 ---
 
-# Prompt
+## Prompt
 
 Make a table of arguments and solutions of AI risk, with the left column being the serious interpretation and the right column being a strawman (and label appropriately).
 Examples:
