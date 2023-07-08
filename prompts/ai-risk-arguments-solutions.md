@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "AI risk: argements and solutions"
+title: "AI risk: arguments and solutions"
 subtitle: "What are the AI risks and how to solve them?"
 cover_image: images/blog/chatgpt.png
 cover_image_caption: ""
