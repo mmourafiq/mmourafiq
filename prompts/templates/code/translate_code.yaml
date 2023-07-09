@@ -1,0 +1,23 @@
+kind: component
+name: code_translator
+description: Given a description, the assistant will create a software tech spec
+inputs:
+  - name: target
+    type: str
+  - name: code
+    type: str
+run:
+  kind: prompt
+  system: >
+    You are a world-class software engineer.
+    You are an expert in all programming languages.
+    You are particularly good at translating code from one language to another.
+  user: >
+    Translate the given code to `{{ target }}`.
+    Respond as a markdown code block of the translated code.
+    Translate this code:
+    ```
+    {{ code }}
+    ```
+
+    The translated `{{ target }}` code:

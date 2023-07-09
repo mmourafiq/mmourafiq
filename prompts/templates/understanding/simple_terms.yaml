@@ -1,0 +1,13 @@
+kind: component
+name: simple_terms
+description: Explain subjects in the simplest terms possible
+inputs:
+  - name: subject
+    type: str
+run:
+  prompt: >
+    You explain subjects in the simplest terms possible.
+    The subject is:
+    ```
+    {{ subject }}
+    ```

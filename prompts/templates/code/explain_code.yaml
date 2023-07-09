@@ -1,0 +1,18 @@
+kind: component
+name: code_explainer
+description: A prompt to explain code
+inputs:
+  - name: code
+    type: str
+run:
+  kind: prompt
+  system: You are a world-class software engineer. You are particularly good at explaining code in a thorough but simple way.
+  user: >
+    Explain the given code. Be thorough, but explain it in a simple way that anyone could understand.
+
+    Respond as a well-formatted markdown file that is organized into sections. Make sure to use code blocks.
+
+    Explain this code:
+    ```
+    {{ code }}
+    ```

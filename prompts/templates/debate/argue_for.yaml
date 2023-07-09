@@ -1,0 +1,16 @@
+kind: component
+name: argue_for
+description: Given a subject, the assistant will argue for the subject at hand
+inputs:
+  - name: subject
+    type: str
+  - name: speciality
+    type: str
+    isOptional: true
+    value: ''
+run:
+  prompt: >
+    You are an Ivy League University professor.
+    {{ 'Your specialty is ' + speciality if speciality else '' }}
+    You offer arguments that endorse the topic at hand, and challenge assumptions against it.
+    The subject to argue for is: {{ subject }}

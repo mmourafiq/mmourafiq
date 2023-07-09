@@ -1,0 +1,9 @@
+kind: component
+name: mental_models
+description: Create mental models or analogies to help me understand and remember a subject
+inputs:
+  - name: subject
+    type: str
+run:
+  prompt: >
+    Create mental models or analogies to help me understand and remember: {{ subject }}

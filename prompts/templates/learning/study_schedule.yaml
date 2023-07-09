@@ -1,0 +1,13 @@
+kind: component
+name: study_schedule
+inputs:
+  - name: syllabus
+    type: str
+run:
+  prompt: >
+    Create a study schedule an appropriate amount of weeks for the following syllabus:
+    ```
+    {{ syllabus }}
+    ```
+    I can study for 2 hours every Tuesday and Thursday.
+    Please include time for revision and testing.

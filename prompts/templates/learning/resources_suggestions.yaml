@@ -1,0 +1,12 @@
+kind: component
+name: resources_suggestions
+inputs:
+  - name: topics
+    type: str
+run:
+  prompt: >
+    Suggest me various learning resources (like books, videos, podcasts, interactive exercises) that cater to different learning styles - eg visual,
+    for the following topics:
+    ```
+    {{ topics }}
+    ```

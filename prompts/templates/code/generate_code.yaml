@@ -1,0 +1,15 @@
+kind: component
+name: code_generator
+description: Generates code based on a specification
+inputs:
+  - name: specification
+    type: str
+run:
+  kind: prompt
+  system: You are a world-class software engineer. You are an expert at generating any code you are asked for.
+  user: >
+    Respond as a markdown code block.
+    Generate code based on the following specification:
+    ```
+    {{ specification }}
+    ```

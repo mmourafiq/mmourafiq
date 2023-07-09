@@ -1,0 +1,13 @@
+kind: component
+name: bullet_points
+description: Given a viewpoint, the assistant will explain the logic and reasoning behind the response in bullet points
+inputs:
+  - name: subject
+    type: str
+run:
+  prompt: >
+    Explain the logic and reasoning in bullet points.
+    The subject is:
+    ```
+    {{ subject }}
+    ```

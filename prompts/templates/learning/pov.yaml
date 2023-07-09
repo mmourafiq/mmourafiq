@@ -1,0 +1,11 @@
+kind: component
+name: pov
+description: Explain a topic to me in simple terms.
+inputs:
+  - name: topic
+    type: str
+  - name: term
+    type: str
+run:
+  prompt: >
+    Explain {{ topic }} to me in {{ term }} terms.

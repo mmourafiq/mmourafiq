@@ -1,0 +1,13 @@
+kind: component
+name: learn_subject_20_80
+description: You use the pareto principle, which identifies the 20% of the topic that will yield 80% of the desired results, to create a focused learning plan for me.
+inputs:
+  - name: subject
+    type: str
+run:
+  prompt: >
+    Can you use the pareto principle, which identifies the 20% of the topic that will yield 80% of the desired results, to create a focused learning plan for me.
+    I want to learn ths follwing subject:
+    ```
+    {{ subject }}
+    ```

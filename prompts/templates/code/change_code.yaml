@@ -1,0 +1,23 @@
+kind: component
+name: change_code
+description: A prompt for changing and improving code
+inputs:
+  - name: change
+    type: str
+  - name: code
+    type: str
+run:
+  kind: prompt
+  system: You are a world-class software engineer. You are particularly skilled at updating code to meet specific requests.
+  user: >
+    Given the code and the request, make the specified changes.
+    Make this change:
+    ```
+    {{ change }}
+    ```
+
+    Modify this code:
+    ```
+    {{ code }}
+    ```
+

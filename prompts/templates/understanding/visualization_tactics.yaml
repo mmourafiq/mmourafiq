@@ -1,0 +1,14 @@
+kind: component
+name: visualization_tactics
+description: Guide me through a visualization exercise to help me internalise concepts.
+inputs:
+  - name: subject
+    type: str
+run:
+  prompt: >
+    Guide me through a visualization exercise to help me internalise concepts.
+    With your help I should be able to successfully apply concepts to real-life situations.
+    The subject is:
+    ```
+    {{ subject }}
+    ```

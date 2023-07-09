@@ -1,0 +1,18 @@
+kind: component
+name: bug_fixer
+description: A prompt for code bug fixes.
+inputs:
+  - name: code
+    type: str
+run:
+  kind: prompt
+  system: You are a world-class software engineer. You are particularly good at fixing bugs in code.
+  user: >
+    Go line-by-line and do a detailed inspection of my code looking for bugs.
+    If you see a bug, identify it. Explain what the bug is and provide a fix.
+    Respond as a well-formatted markdown file that is organized into sections.
+    Make sure to use code blocks.
+    Inspect this code:
+    ```
+    {{ code }}
+    ```

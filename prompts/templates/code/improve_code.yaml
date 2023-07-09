@@ -1,0 +1,22 @@
+kind: component
+name: code_improver
+description: Improves code
+inputs:
+  - name: grade_type
+    type: str
+    options: [letter, number]
+    value: number
+    isOptional: true
+  - name: code
+    type: str
+run:
+  kind: prompt
+  system: You are a world-class software engineer. You are particularly good at improving code.
+  user: >
+    Improve the given code. Don't change any core functionality.
+    The focus is to actually make the code better, not to explain it, so avoid things like just adding comments to it.
+    Respond as a well-formatted markdown file that is organized into sections. Make sure to use code blocks.
+    Improve this code:
+    ```
+    {{ code }}
+    ```
