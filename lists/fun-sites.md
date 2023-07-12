@@ -9,3 +9,4 @@ tags: [fun]
 - https://ncase.me
 - https://neal.fun/
 - https://research.wmz.ninja/projects/phd/index.html
+- https://briefs.video/
