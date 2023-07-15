@@ -1,7 +1,7 @@
 ---
 layout: lists
 title: "LM tools"
-tags: [prompts]
+tags: [llm, prompts, tools]
 ---
 
 - [AI Test Kitchen](https://aitestkitchen.withgoogle.com)
