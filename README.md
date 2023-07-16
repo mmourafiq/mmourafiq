@@ -11,9 +11,8 @@ Alum @ YCombinator, BNP, EIB, Kayak, Dubsmash/Reddit ...
 
 - Ideation and products building with experience in consumer, SaaS, and B2B. I know how to turn business requirements and ideas into a clean & simple technology components.
 - Currently thinking/working on a couple of ideas:
-  - Content repurposing, i.e video <-> blogs <-> podcast <-> shorts/notes/tweets <-> ...
-  - Functional graphs on compute and cognitive layers.
-  - Designing without being a designer.
+  - Content repurposing, i.e videos <-> blogs <-> podcasts <-> shorts/notes/tweets <-> ...
+  - Functional graphs for the compute and cognitive layers.
   - UX for AI apps.
   - No-code abstractions for the creator economy.
   - Semiotics.
@@ -21,8 +20,9 @@ Alum @ YCombinator, BNP, EIB, Kayak, Dubsmash/Reddit ...
   - Copilot for growth.
   - Copilot for insights discovery.
   - Abstraction/Automation of repetitive work.
-  - Tools for reporting, data-science, and analytics.
   - MLOps, LLMOps, FMOps, DataOps ...
+  - Tools for reporting, data-science, and analytics.
+  - Designing without being a designer.
 - I bootstrapped and grew an open-core MLOps product:
   - I built the open-source technology: **14M+** downloads of SDKs, **25M+** downloads of Docker tools, and **4.2k+** Github stars in the OSS repos.
   - I wrote the initial blog posts, release notes, annoucements content, marketing site & copy, and the technical documentation.
