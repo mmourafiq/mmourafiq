@@ -20,12 +20,12 @@ Alum @ YCombinator, BNP, EIB, Kayak, Dubsmash/Reddit ...
   - Copilot for growth.
   - Copilot for insights discovery.
   - Abstraction/Automation of repetitive work.
-  - MLOps, LLMOps, FMOps, DataOps ...
+  - MLOps, LLMOps, DataOps ...
   - Tools for reporting, data-science, and analytics.
   - Designing without being a designer.
 - I bootstrapped and grew an open-core MLOps product:
   - I built the open-source technology: **14M+** downloads of SDKs, **25M+** downloads of Docker tools, and **4.2k+** Github stars in the OSS repos.
-  - I wrote the initial blog posts, release notes, annoucements content, marketing site & copy, and the technical documentation.
+  - I wrote the initial blog posts, release notes, announcements content, marketing site & copy, and the technical documentation.
   - I grew a community of data-scientists and machine learning engineers to **1.5k+** members.
   - I started with a support monetization strategy and eventually built a commercial offering around the OSS platform and closed the first sales.
   - I provided the initial support for both community users and paying customers.
