@@ -50,3 +50,5 @@ tags: [llm, prompts, tools]
 - [sharegpt](https://sharegpt.com)
 - [ThoughtSource](https://github.com/OpenBioLink/ThoughtSource)
 - [Visual Prompt Builder](https://tools.saxifrage.xyz/prompt)
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
+- [langFuse](https://github.com/langfuse/langfuse/)
