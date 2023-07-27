@@ -1,7 +1,7 @@
 ---
 layout: lists
 title: "Sales books"
-tags: [sales]
+tags: [startups, sales]
 ---
 
  * [Founding Sales: The Early Stage Go-to-Market Handbook](https://www.amazon.fr/dp/1734505117?ref_=cm_sw_r_apin_dp_8WFK9YTFREGCB1NK2MW6)
