@@ -15,14 +15,15 @@ Alum @ YCombinator, BNP, EIB, Kayak, Dubsmash/Reddit ...
   - Functional graphs for the compute and cognitive layers.
   - UX for AI apps.
   - No-code abstractions for the creator economy.
-  - Semiotics.
-  - Thinking frameworks.
   - Copilot for growth.
   - Copilot for insights discovery.
   - Abstraction/Automation of repetitive work.
   - MLOps, LLMOps, DataOps ...
   - Tools for reporting, data-science, and analytics.
   - Designing without being a designer.
+  - Semiotics.
+  - Thinking frameworks.
+  - Information theory.
 - I bootstrapped and grew an open-core MLOps product:
   - I built the open-source technology: **14M+** downloads of SDKs, **25M+** downloads of Docker tools, and **4.2k+** Github stars in the OSS repos.
   - I wrote the initial blog posts, release notes, announcements content, marketing site & copy, and the technical documentation.
