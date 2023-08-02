@@ -21,3 +21,5 @@ tags: [mlops]
 * [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving): Flexible, high-performance serving system for ML models, designed for production.
 * [TorchServe](https://github.com/pytorch/serve): A flexible and easy to use tool for serving PyTorch models.
 * [Triton Inference Server](https://github.com/triton-inference-server/server): Provides an optimized cloud and edge inferencing solution.
+* [Truss](https://github.com/basetenlabs/truss):  The simplest way to serve AI/ML models in production.
+* [MLEM](https://github.com/iterative/mlem):  🐶 A tool to package, serve, and deploy any ML model on any platform. 

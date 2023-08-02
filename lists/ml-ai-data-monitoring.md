@@ -28,4 +28,5 @@ tags: [ai, machine-learning, mlops, python]
  * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick): Visual analysis and diagnostic tools to facilitate machine learning model selection.
  * [Soda Core](https://github.com/sodadata/soda-core): Data profiling, testing, and monitoring for SQL accessible data.
  * [Uptrain](https://github.com/uptrain-ai/uptrain):  Your open-source LLM experimentation, response validation and monitoring toolkit.
+ * [nebuly](https://github.com/nebuly-ai/nebuly):  The next-generation platform to monitor and optimize your AI costs in one place 🚀 
 

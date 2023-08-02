@@ -22,3 +22,6 @@ tags: [data, mlops, python]
 * [Milvus](https://github.com/milvus-io/milvus/): An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy.
 * [OpenMetadata](https://open-metadata.org/): A Single place to discover, collaborate and get your data right.
 * [Spark](https://spark.apache.org/): Unified analytics engine for large-scale data processing.
+* [MetricFlow](https://github.com/dbt-labs/metricflow):  MetricFlow allows you to define, build, and maintain metrics in code. 
+* [DBT](https://github.com/dbt-labs/dbt-core):  DBT is a command line tool that enables data analysts and engineers to transform data in their warehouse more effectively.
+* [DreamIO](https://www.dremio.com): Dremio is a data lake engine that empowers anyone in your organization to discover, understand, and curate data.
