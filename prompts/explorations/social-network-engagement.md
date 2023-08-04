@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Exploring social network engagement"
-subtitle: "How might the Twitter increase readership and engagement?"
+subtitle: "How might Twitter increase readership and engagement?"
 cover_image: images/blog/chatgpt.png
 cover_image_caption: ""
 tags: [prompts, exploration]
@@ -9,7 +9,7 @@ tags: [prompts, exploration]
 
 ## Prompt
 
-How might the Twitter increase readership and engagement?
+How might Twitter increase readership and engagement?
 
 ## Response
 
