@@ -9,6 +9,7 @@ tags: [ search, tools, llm ]
  * https://maroofy.com/
  * https://www.perplexity.ai/
  * https://komo.ai/
+ * https://andisearch.com/
  * Friday Go (Chrome extension)
  * https://www.hotbot.com/
  * https://metaphor.systems/
