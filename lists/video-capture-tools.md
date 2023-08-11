@@ -12,3 +12,4 @@ layout: list
  - https://www.getsmartcue.com
  - https://www.storylane.io/
  - https://github.com/tryptech/obs-zoom-and-follow
+ - https://www.kite.video/
