@@ -11,3 +11,4 @@ tags: [fun]
 - https://research.wmz.ninja/projects/phd/index.html
 - https://briefs.video/
 - https://stemformulas.com/formulas/
+- https://www.toddrjones.com/dataviz/
