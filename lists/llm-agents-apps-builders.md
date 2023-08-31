@@ -14,3 +14,4 @@ tags: [ UI, DAG, llm ]
 * [langchain-ui](https://github.com/homanp/langchain-ui):  🧬 The open source chat-ai toolkit.
 * [SuperAgent](https://github.com/homanp/superagent):  🥷 Superagent - Build, deploy, and manage LLM-powered agents.
 * [ComfyUI](https://github.com/comfyanonymous/ComfyUI): A powerful and modular stable diffusion GUI with a graph/nodes interface.
+* [lingtual](https://lingtual.com/): Build AI Business Tools Instantly.

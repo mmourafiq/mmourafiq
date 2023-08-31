@@ -12,3 +12,5 @@ tags: [fun]
 - https://briefs.video/
 - https://stemformulas.com/formulas/
 - https://www.toddrjones.com/dataviz/
+- https://population.io
+- https://www.omnicalculator.com/
