@@ -14,3 +14,5 @@ tags: [fun]
 - https://www.toddrjones.com/dataviz/
 - https://population.io
 - https://www.omnicalculator.com/
+- https://www.scanofthemonth.com
+- https://climatechangetracker.org/
