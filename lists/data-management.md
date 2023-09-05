@@ -5,6 +5,7 @@ tags: [data, mlops, python]
 ---
 
 * [Amundsen](https://www.amundsen.io/): Data discovery and metadata engine for improving the productivity when interacting with data.
+* [sherlok ai](https://sherlok.ai/): Discover the Right Data10x Faster. Sherlok is the search engine for data teams. We help you search, trust, and understand all of your company's data resources.
 * [Apache Atlas](https://atlas.apache.org): Provides open metadata management and governance capabilities to build a data catalog.
 * [CKAN](https://github.com/ckan/ckan): Open-source DMS (data management system) for powering data hubs and data portals.
 * [DataHub](https://github.com/linkedin/datahub): LinkedIn's generalized metadata search & discovery tool.
