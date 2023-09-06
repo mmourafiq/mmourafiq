@@ -15,3 +15,15 @@ tags: [ UI, DAG, llm ]
 * [SuperAgent](https://github.com/homanp/superagent):  🥷 Superagent - Build, deploy, and manage LLM-powered agents.
 * [ComfyUI](https://github.com/comfyanonymous/ComfyUI): A powerful and modular stable diffusion GUI with a graph/nodes interface.
 * [lingtual](https://lingtual.com/): Build AI Business Tools Instantly.
+* [Magicflow](https://www.magicflow.ai/): AI Workflows Made Easy, Magicflow is a no-code drag-and-drop tool to build AI workflows that easily integrate into your app. Build and test in minutes, and leave the infrastructure work to us.
+* [reworkd](https://reworkd.ai/): AI Agents at Your Fingertips. Leverage AI Agents to automate the workflows you once spent countless human hours on. Experience a new way of working.
+* [spell](https://spell.so/): AI that works for you. Delegate your tasks to autonomous AI agents. Transform your daily work with revolutionary and intuitive AI tools powered by GPT4.
+* [Spine AI](https://www.getspine.ai/): Helping companies build AI copilots in minutes
+* [VectorShift](https://www.vectorshift.ai/): Connecting AI workflows to end-users.
+* [Outset](https://outset.ai/): AI-powered user interviews
+* [Mira](https://www.usemira.ai/): AI Agent for React based frontend teams.
+* [SID](https://www.sid.ai/): Connect Google, Notion & Email Data to LLMs.
+* [Octo](https://www.getocto.ai/): AI Agents to resolve  support tickets instantly.
+* [Double](https://usedouble.com/): Clean, Enrich and Qualify leads using AI
+* [Roundtable](https://roundtable.ai/): Simulate surveys in seconds.
+* [Hyperlight](https://hyperlight.ai/): Enterprise-grade AI Agents for  Customer Support
