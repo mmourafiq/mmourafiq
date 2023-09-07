@@ -16,3 +16,5 @@ tags: [ customer-support, product, copilot ]
  - [inkeep](https://inkeep.com/): Answer developer questions, instantly. Turn your docs and other content into an LLM-powered search and support copilot.
  - [Mendable](https://www.mendable.ai/): Build AI Chat Search For Customer Support. The best way to create production-ready chat with your data apps. Ingest, customize, then deploy with one line of code.
  - [Kraftful](http://www.kraftful.com/): AI Co-Pilot for Product Builders
+ - [merlin](https://talktomerlin.com/): Better Feedback for Better Products. Qualitative research conducted, analyzed, and summarized by AI.
+ - [Cardinal](https://cardinalapp.io): An overview of your product has never been easier. Help product teams know what everyone is doing and what impact their work will have.
