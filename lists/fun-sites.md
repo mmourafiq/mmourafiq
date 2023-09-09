@@ -16,3 +16,4 @@ tags: [fun]
 - https://www.omnicalculator.com/
 - https://www.scanofthemonth.com
 - https://climatechangetracker.org/
+- https://growth.design/

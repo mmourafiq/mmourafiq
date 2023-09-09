@@ -36,4 +36,6 @@ tags: [ llm, agents ]
 - [Sweep](https://sweep.dev/) [(Source)](https://github.com/sweepai/sweep) — Another GitHub integration to generate pull requests from issues.
 - [Code Review GPT](https://github.com/mattzcarey/code-review-gpt) — An open source tool for reviewing PRs. Works as GitHub action, Gitlab CLI or locally.
 - [Nova](https://www.trynova.ai/) - CI bot to add actions such as summaries and tests to new PRs.
-
+- [Open Interpreter](https://github.com/KillianLucas/open-interpreter.git):  OpenAI's Code Interpreter in your terminal, running locally
+- [Code Indexer Loop](https://github.com/definitive-io/code-indexer-loop):  Code Indexer Loop is a Python library for indexing and retrieving source code files through an integrated vector database that's continuously and efficiently updated.
+- [julius](https://julius.ai/): AI Data Analyst.
