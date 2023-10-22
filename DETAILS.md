@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Mourad
 
 Engineer, startups, philosophy, music, coffee ...\
-Founder @ Popsy, Polyaxon ...\
+Tinkering @ Popsy, Polyaxon ...\
 Alum @ YCombinator, BNP, EIB, Kayak, Dubsmash/Reddit ...
 
 - [Github](https://github.com/mmourafiq)
