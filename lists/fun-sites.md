@@ -19,3 +19,4 @@ tags: [fun]
 - https://growth.design/
 - https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html
 - https://www.ritsumei.ac.jp/~akitaoka/index-e.html
+- https://animatedai.github.io/
