@@ -18,3 +18,4 @@ tags: [ customer-support, product, copilot ]
  - [Kraftful](http://www.kraftful.com/): AI Co-Pilot for Product Builders
  - [merlin](https://talktomerlin.com/): Better Feedback for Better Products. Qualitative research conducted, analyzed, and summarized by AI.
  - [Cardinal](https://cardinalapp.io): An overview of your product has never been easier. Help product teams know what everyone is doing and what impact their work will have.
+ - [userdesk](https://www.userdesk.io): Enhance user support with AI.
