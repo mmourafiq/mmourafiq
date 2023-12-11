@@ -21,3 +21,4 @@ tags: [fun]
 - https://www.ritsumei.ac.jp/~akitaoka/index-e.html
 - https://animatedai.github.io/
 - https://ralphammer.com
+- https://ciechanow.ski/
