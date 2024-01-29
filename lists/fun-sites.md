@@ -22,3 +22,4 @@ tags: [fun]
 - https://animatedai.github.io/
 - https://ralphammer.com
 - https://ciechanow.ski/
+- https://teropa.info/harmonics-explorer/
