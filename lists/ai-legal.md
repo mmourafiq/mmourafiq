@@ -1,6 +1,6 @@
 ---
 layout: lists
-title: "C
+title: "AI Legal"
 tags: [ counsel, legal, ai ]
 ---
 

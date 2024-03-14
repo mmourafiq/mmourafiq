@@ -1,6 +1,6 @@
 ---
 layout: lists
-title: "C
+title: "Customer support copilots"
 tags: [ customer-support, product, copilot ]
 ---
 
