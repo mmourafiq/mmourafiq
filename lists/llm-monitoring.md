@@ -16,3 +16,6 @@ tags: [llm, monitoring, tools]
 - [ConfidentAI: Evaluation Infrastructure for LLMs.](https://www.confident-ai.com/)
 - [phoenix arize: AI Observability and Evaluation](https://phoenix.arize.com/)
 - [hegel-ai: Measure, monitor, and improve your generative AI applications](https://hegel-ai.com/)
+- [phospho : Text analytics for LLM apps. PostHog for prompts. Extract evaluations, intents and events from text messages. phospho leverages LLM (OpenAI, MistralAI, Ollama, etc.)](https://phospho.ai/)
+- [Unified DevOps platform to build AI applications](https://keywordsai.co/)
+- [Dawn is the analytics platform for AI products.](https://www.dawnai.com/)
