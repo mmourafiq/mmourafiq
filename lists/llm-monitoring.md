@@ -19,3 +19,6 @@ tags: [llm, monitoring, tools]
 - [phospho : Text analytics for LLM apps. PostHog for prompts. Extract evaluations, intents and events from text messages. phospho leverages LLM (OpenAI, MistralAI, Ollama, etc.)](https://phospho.ai/)
 - [Unified DevOps platform to build AI applications](https://keywordsai.co/)
 - [Dawn is the analytics platform for AI products.](https://www.dawnai.com/)
+- [athina: Monitor LLMs in production. Detect hallucinations, bias, and safety risks. Prevent bad outputs from reaching your users.](https://athina.ai/)
+- [lunary: Bring your AI app to production. The platform to monitor, manage and improve your LLM apps](https://lunary.ai/)
+- [The only prompt engineering tool you need](https://www.baserun.ai/)
