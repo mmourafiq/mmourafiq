@@ -22,3 +22,4 @@ tags: [llm, monitoring, tools]
 - [athina: Monitor LLMs in production. Detect hallucinations, bias, and safety risks. Prevent bad outputs from reaching your users.](https://athina.ai/)
 - [lunary: Bring your AI app to production. The platform to monitor, manage and improve your LLM apps](https://lunary.ai/)
 - [The only prompt engineering tool you need](https://www.baserun.ai/)
+- [OpenLIT is an open-source GenAI and LLM observability platform native to OpenTelemetry with traces and metrics in a single application 🔥 🖥 . 👉 Open source GenAI and LLM Application Performance Monitoring (APM) & Observability tool](https://github.com/openlit/openlit.git)
