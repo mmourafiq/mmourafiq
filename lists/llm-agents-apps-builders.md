@@ -28,3 +28,4 @@ tags: [ UI, DAG, llm ]
 * [Roundtable](https://roundtable.ai/): Simulate surveys in seconds.
 * [Hyperlight](https://hyperlight.ai/): Enterprise-grade AI Agents for  Customer Support
 * [Delphi](https://www.delphi.ai/): Build the digital version of you to scale your expertise and availability, infinitely.
+ * [Agentic(ts)](https://github.com/transitive-bullshit/agentic):  AI agent stdlib that works with any LLM and TypeScript AI SDK.
