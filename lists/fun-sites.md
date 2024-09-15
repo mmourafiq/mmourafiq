@@ -27,3 +27,4 @@ tags: [fun]
 - https://grantkot.com/ll/
 - http://radio.garden
 - https://ismy.blue/
+- https://www.bullshitremover.com/
