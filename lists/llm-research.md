@@ -4,7 +4,10 @@ title: "Reseach tools"
 tags: [ search, tools, llm ]
 ---
 
- - [Meet chatGPT for Market Research](https://www.dataleap.ai/)
- - [Read and write research papers really quickly](https://www.unriddle.ai/)
- - [AI Search Engine For Scientific Research](https://www.epsilon-ai.com/)
- - [AI Search Engine for Research](https://lumina.sh/)
+ - [dataleap: Meet chatGPT for Market Research](https://www.dataleap.ai/)
+ - [unriddle: Read and write research papers really quickly](https://www.unriddle.ai/)
+ - [epsilon: AI Search Engine For Scientific Research](https://www.epsilon-ai.com/)
+ - [lumina: AI Search Engine for Research](https://lumina.sh/)
+ - [answergrid: Answers at scale: AnswerGrid is an AI-powered web research tool realised as a spreadsheet.For our first research use case, we're helping startups with high-quality sales qualification.](https://answergrid.ai/)
+ - [undermind: Radically better research, radically faster](https://www.undermind.ai/home/)
+ - [The Only Research App You Need](https://www.simplifine.com/)
