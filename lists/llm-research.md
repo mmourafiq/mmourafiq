@@ -12,3 +12,4 @@ tags: [ search, tools, llm ]
  - [undermind: Radically better research, radically faster](https://www.undermind.ai/home/)
  - [simplifine: The Only Research App You Need](https://www.simplifine.com/)
  - [Jenni AI :Say Goodbye to Citation Frustration](https://jenni.ai/)
+ - [Create Powerful Content: Capitol AI is a smart document creator with advanced API and SDK solutions.  We transform publishers into AI-native companies that deliver the customized experiences their customers demand.](https://www.capitol.ai)
