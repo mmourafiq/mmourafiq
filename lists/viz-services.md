@@ -41,3 +41,4 @@ tags: [ mlops ]
 * [Observable](https://observablehq.com/): Observable is a better way to code.
 * [Mosaic](https://uwdata.github.io/mosaic/): Scalable, interactive data visualization.
 * [Datapane](https://github.com/datapane/datapane): Build and share data reports in 100% Python.
+* [Explo](https://www.explo.co/): Embed customer-facing analytics in your product

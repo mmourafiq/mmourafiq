@@ -28,3 +28,4 @@ tags: [fun]
 - http://radio.garden
 - https://ismy.blue/
 - https://www.bullshitremover.com/
+- https://pessimistsarchive.org

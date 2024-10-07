@@ -23,3 +23,5 @@ tags: [llm, monitoring, tools]
 - [lunary: Bring your AI app to production. The platform to monitor, manage and improve your LLM apps](https://lunary.ai/)
 - [The only prompt engineering tool you need](https://www.baserun.ai/)
 - [OpenLIT is an open-source GenAI and LLM observability platform native to OpenTelemetry with traces and metrics in a single application 🔥 🖥 . 👉 Open source GenAI and LLM Application Performance Monitoring (APM) & Observability tool](https://github.com/openlit/openlit.git)
+- [Ship LLM products that work.](https://www.braintrust.dev/)
+- [Dev/Track/Eval llm applications](https://www.lytix.co/)
