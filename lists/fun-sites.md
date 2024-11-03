@@ -29,3 +29,4 @@ tags: [fun]
 - https://ismy.blue/
 - https://www.bullshitremover.com/
 - https://pessimistsarchive.org
+- https://makeityourself.org/
