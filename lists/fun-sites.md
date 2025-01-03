@@ -30,3 +30,4 @@ tags: [fun]
 - https://www.bullshitremover.com/
 - https://pessimistsarchive.org
 - https://makeityourself.org/
+- https://blogscroll.com/
