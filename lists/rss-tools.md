@@ -13,3 +13,5 @@ tags: [rss, tools]
   * [Feedi: RSS + Mastodon feed reader](https://github.com/facundoolano/feedi)
   * [Telegram + blue sky](https://github.com/DidierRLopes/telegram-text-to-bluesky-post)
   * [I Ditched the Algorithm for RSS—and You Should Too](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/)
+  * [Feeder: Your favorite content. All in one place. Stay up to date with what is relevant to you.](https://feeder.co/)
+  * [Lighthouse: Inbox Zero for RSS Feeds - The Solution to Information Overload](https://lighthouseapp.io/)
