@@ -25,3 +25,4 @@ tags: [llm, monitoring, tools]
 - [OpenLIT is an open-source GenAI and LLM observability platform native to OpenTelemetry with traces and metrics in a single application 🔥 🖥 . 👉 Open source GenAI and LLM Application Performance Monitoring (APM) & Observability tool](https://github.com/openlit/openlit.git)
 - [Ship LLM products that work.](https://www.braintrust.dev/)
 - [Dev/Track/Eval llm applications](https://www.lytix.co/)
+- [literal.ai: Gain visibility into your LLM applications. Monitor, analyze, and improve your AI applications.](https://literalai.com/)
