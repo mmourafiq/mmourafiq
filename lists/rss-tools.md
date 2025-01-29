@@ -15,3 +15,4 @@ tags: [rss, tools]
   * [I Ditched the Algorithm for RSS—and You Should Too](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/)
   * [Feeder: Your favorite content. All in one place. Stay up to date with what is relevant to you.](https://feeder.co/)
   * [Lighthouse: Inbox Zero for RSS Feeds - The Solution to Information Overload](https://lighthouseapp.io/)
+  * [BlogScroll: 📜 An aggregator of independently-owned blogs](https://github.com/blogscroll/blogscroll)
