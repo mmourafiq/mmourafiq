@@ -16,3 +16,4 @@ tags: [rss, tools]
   * [Feeder: Your favorite content. All in one place. Stay up to date with what is relevant to you.](https://feeder.co/)
   * [Lighthouse: Inbox Zero for RSS Feeds - The Solution to Information Overload](https://lighthouseapp.io/)
   * [BlogScroll: 📜 An aggregator of independently-owned blogs](https://github.com/blogscroll/blogscroll)
+  * [Gistreader is a read-it-later app that uses AI to summarize your content and remove distractions.](https://www.gistreader.com/)
