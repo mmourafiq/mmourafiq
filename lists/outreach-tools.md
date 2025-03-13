@@ -4,6 +4,9 @@ title: "Outreach tools"
 tags: [ marketing, sales, outreach ]
 ---
 
+* https://www.drippi.ai/
+* https://dripify.io/
+* https://www.heyreach.io/
 * https://www.lemwarm.com/get-started-with-lemwarm
 * https://help.lemwarm.com/article/how-to-connect-to-your-google-email-provider
 * https://help.lemlist.com/en/articles/4494094-set-up-your-smtp-and-imap
