@@ -31,3 +31,4 @@ tags: [fun]
 - https://pessimistsarchive.org
 - https://makeityourself.org/
 - https://blogscroll.com/
+- https://visualgo.net/en
