@@ -32,3 +32,4 @@ tags: [fun]
 - https://makeityourself.org/
 - https://blogscroll.com/
 - https://visualgo.net/en
+- [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
