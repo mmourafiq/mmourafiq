@@ -33,3 +33,4 @@ tags: [fun]
 - https://blogscroll.com/
 - https://visualgo.net/en
 - [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
+- [DOOMSDAY SCOREBOARD](https://doomsday.march1studios.com/)
